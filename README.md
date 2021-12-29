@@ -1,6 +1,6 @@
 # NLP-SaudiNewsNet
 
-![WhatsApp Image 2021-12-28 at 8 16 01 PM (1)](https://user-images.githubusercontent.com/79373504/147632505-18f33f4c-56f1-43ed-80ed-718d63f0dd99.jpeg)
+     ![WhatsApp Image 2021-12-28 at 8 16 01 PM (1)](https://user-images.githubusercontent.com/79373504/147632505-18f33f4c-56f1-43ed-80ed-718d63f0dd99.jpeg)
 
 
 # Description:
@@ -21,11 +21,11 @@ The data that will be used in this project has been downloaded from Github (http
 The goal of this project is: Dealing with Unsupervised Learning to o find the best one that clusters the articles into topics  by using NLP algorithms
 
 # Tools:
-•	Numpy and Pandas for data manipulation.
-•	NLP-text processing libraries.
-•	Sklearn-Scikit-learn for modeling.
-•	Matplotlib and Seaborn for plotting.
-•	Tableau for interactive visualizations
+*	Numpy and Pandas for data manipulation.
+*	NLP-text processing libraries.
+*	Sklearn-Scikit-learn for modeling.
+*	Matplotlib and Seaborn for plotting.
+*	Tableau for interactive visualizations
 
 
 
