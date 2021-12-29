@@ -1,6 +1,6 @@
 # NLP-SaudiNewsNet
 
-     ![WhatsApp Image 2021-12-28 at 8 16 01 PM (1)](https://user-images.githubusercontent.com/79373504/147632505-18f33f4c-56f1-43ed-80ed-718d63f0dd99.jpeg)
+  ![WhatsApp Image 2021-12-28 at 8 16 01 PM (1)](https://user-images.githubusercontent.com/79373504/147632505-18f33f4c-56f1-43ed-80ed-718d63f0dd99.jpeg)
 
 
 # Description:
