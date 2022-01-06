@@ -5,7 +5,7 @@ In the topic modeling, NMF In this algorithm, we tried to tune over a different 
 
 ![image](https://user-images.githubusercontent.com/79373504/148458274-80b877f7-58ba-489b-9c1e-bd96d8f1c902.png)
 
-* We see from the figure that Riyadh is more prevalent in Saudi news
+* We see from the figure that alriyadh is more prevalent in Saudi news
      
 ![image](https://user-images.githubusercontent.com/79373504/148458340-ff8f729a-6966-42dd-abc5-5ca215b230eb.png)
 
