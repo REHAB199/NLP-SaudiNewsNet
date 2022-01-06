@@ -1,4 +1,4 @@
-
+# NLP-SaudiNewsNet
 
 
 In the topic modeling, NMF In this algorithm, we tried to tune over a different number of topics. The best number was 5 topics. and it was easy to interpret each topic using Word Cloud visualization.
