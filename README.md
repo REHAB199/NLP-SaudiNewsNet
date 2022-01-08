@@ -8,5 +8,6 @@ papers past through the topics. We will also make recommendations about the best
 
 ---
 - ### [Project Proposal.](https://github.com/REHAB199/NLP-SaudiNewsNet/blob/main/Documents/Proposal.md)
-- ### [Project MVP.]()
-- ### [Project Documention.]()
+- ### [Project MVP.](https://github.com/REHAB199/NLP-SaudiNewsNet/blob/main/Documents/MVP.md)
+- ### [Project Documention.](https://github.com/REHAB199/NLP-SaudiNewsNet/blob/main/Documents/Saudi%20Newspapers%20Articles%20Report.pdf)
+- ### [Project Presentation.](https://github.com/REHAB199/NLP-SaudiNewsNet/blob/main/Documents/nlp-saudi-news.pdf)
