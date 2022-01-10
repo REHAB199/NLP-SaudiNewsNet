@@ -25,7 +25,6 @@ The goal of this project is: Dealing with Unsupervised Learning to o find the be
 *	NLP-text processing libraries.
 *	Sklearn-Scikit-learn for modeling.
 *	Matplotlib and Seaborn for plotting.
-*	Tableau for interactive visualizations
 
 
 
